@@ -1,1 +1,9 @@
+module bcd_to_ex3(A,B,C,D,W,X,Y,Z);
+input A,B,C,D;
+output W,X,Y,Z;
+assign W=~D;
+assign X=(C&D)|(~C&~D);
+assign Y=(B&~C&~D)|(~B&C)|(~B&D);
+assign Z=(A)|(B&C)|(B&D);
+endmodule
 
