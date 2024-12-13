@@ -25,4 +25,4 @@ Vivado 2024.1 and ModelSim-Altera 6.3g_p1 (Quartus II 8.1) Web Edition🛠️
 The designs will be synthesized and simulated using the latest version of Xilinx Vivado (2024.1) and ModelSim-Altera 6.3g_p1 (Quartus II 8.1) Web Edition
 
 📜 License
-This project is licensed under the MIT License. See the  file for details.
+This project is licensed under the MIT License. See the LICENSE  file for details.
