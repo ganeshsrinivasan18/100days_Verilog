@@ -1,1 +1,9 @@
+module binary_to_gray(A,B,C,D,G3,G2,G1,G0);
+input A,B,C,D;
+output G3,G2,G1,G0;
 
+assign G3=A;
+assign G2=A^B;
+assign G1=A^B^C;
+assign G0=A^B^C^D;
+endmodule
