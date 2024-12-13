@@ -1,0 +1,26 @@
+module up_counter_tb();
+reg clk=0,rst;
+wire [2:0] count;
+counter_4b DUT(clk,rst,count);
+always #5 clk=~clk;
+initial 
+begin 
+$dumpfile("up_counter.vcd");
+$dumpvars(0,up_counter_tb);
+$monitor($time,"clk=%b,rst=%b,count=%b",clk,rst,count);
+
+ rst=1;
+ #10;
+
+   rst=0;
+   #100;
+  
+   rst=1;
+   #10$finish;
+
+
+
+ $finish;
+end
+
+endmodule
