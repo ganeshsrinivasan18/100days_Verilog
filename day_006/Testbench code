@@ -1,0 +1,24 @@
+module bcd_to_ex3_tb();
+reg A,B,C,D;
+wire W,X,Y,Z;
+bcd_to_ex3 DUT(A,B,C,D,W,X,Y,Z);
+initial
+begin
+$dumpfile("bcd_to_ex3.vcd");
+$dumpvars(0,bcd_to_ex3_tb);
+$monitor($time,"A=%b,B=%b,C=%b,D=%b,W=%b,X=%b,Y=%b,Z=%b",A,B,C,D,W,X,Y,Z);
+
+#5 A=0;B=0;C=0;D=0;//0
+#5 A=0;B=0;C=0;D=1;//1
+#5 A=0;B=0;C=1;D=0;//2
+#5 A=0;B=0;C=1;D=1;//3
+#5 A=0;B=1;C=0;D=0;//4
+#5 A=0;B=1;C=0;D=1;//5
+#5 A=0;B=1;C=1;D=0;//6
+#5 A=0;B=1;C=1;D=1;//7
+#5 A=1;B=0;C=0;D=0;//8
+#5 A=1;B=0;C=0;D=1;//9
+
+#5 $finish;
+end
+endmodule
