@@ -40,6 +40,8 @@ License🪪
 This project is Licensed under the MIT License.See the LICENSE file for details.
 
 🛠 Tools and Environment
+
 . Vivado 2024.1
+
 
   .The designs will be synthesized and simulated using the latest version of Xilinix Vivado(2024.1).
