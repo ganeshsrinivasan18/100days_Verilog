@@ -1,0 +1,20 @@
+module down_counter_tb();
+reg clk=0,reset;
+wire [2:0]count;
+down_counter DUT(clk,reset,count);
+always 
+#5 clk=~clk;
+initial 
+begin 
+$dumpfile("down_counter.vcd");
+$dumpvars(0,down_counter_tb);
+$monitor($time,"clk=%b,reset=%b,count=%b",clk,count,reset);
+
+ reset=1; #10
+
+ reset=0;#150
+
+ reset =1; #10
+ 
+ $finish;
+end
