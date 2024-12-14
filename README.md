@@ -1,9 +1,11 @@
 🔥100 Days of RTL Challenge
+
 😊Welcome to my 100 Days of RTL challenge repository!
 
 In this project, I will be coding 💻  various digital designs using Verilog and RTL design techniques as part of a 100-day challenge to improve my Hardware Description Language (HDL) skills😉
 
 Progress📆
+
 . Day 1: Full Adder
 
 . Day 2: Carry Lookahead Adder
@@ -33,6 +35,8 @@ Progress📆
 . Day 14: Master-Slave JK Flipflop
 
 . Day 15: Synchronous up counter
+
+. Day 16: Synchronous down counter
 
 ….(Tasks will be added as I progress)
 
