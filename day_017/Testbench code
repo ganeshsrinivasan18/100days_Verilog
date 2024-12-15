@@ -1,0 +1,24 @@
+module up_down_counter_tb();
+reg mode,clock=0,clr;
+
+wire [7:0]count;
+up_down_counter DUT(mode,clock,clr,count);
+always
+#1 clock=~clock;
+initial 
+begin
+$dumpfile("up_down_counter.vcd");
+$dumpvars(0,up_down_counter);
+$monitor($time,"mode<=%b,clock<=%b,clr<=%b,,count<=%h",mode,clock,clr,count);
+
+
+ clr<=1;
+
+#10 clr<=0;mode<=1;
+
+
+#50 mode<=0;
+
+
+
+ #50 $finish;
