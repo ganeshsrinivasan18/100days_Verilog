@@ -38,6 +38,8 @@ Progress📆
 
 . Day 16: Synchronous down counter
 
+. Day 17: Up/Down synchronous counter
+
 ….(Tasks will be added as I progress)
 
 License🪪
