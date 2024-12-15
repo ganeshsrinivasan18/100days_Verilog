@@ -40,6 +40,9 @@ Progress📆
 
 . Day 17: Up/Down synchronous counter
 
+. Day 18: Ring counter
+
+
 ….(Tasks will be added as I progress)
 
 License🪪
