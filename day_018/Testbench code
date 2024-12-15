@@ -1,0 +1,18 @@
+module ring_counter_tb();
+reg clk=0,init;
+wire[2:0]count;
+ring_counter DUT(clk,init,count);
+always #5 clk=~clk;
+initial
+begin 
+$dumpfile("ring_counter.vcd");
+$dumpvars(0,ring_counter_tb);
+$monitor($time,"clk=%b,init=%b,count=%b",clk,init,count);
+
+init=1;
+
+#20init=0;
+
+#100 $finish;
+end
+endmodule
