@@ -1,0 +1,15 @@
+module up_down_counter(mode,clock,clr,count);
+input mode,clock,clr;
+
+output reg[7:0] count;
+always @(posedge clock)
+begin 
+
+if(clr)
+count<=0;
+else if(mode)
+count<=count +1;
+else
+count<=count -1;
+end
+endmodule
