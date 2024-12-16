@@ -1,4 +1,4 @@
-🔥100 Days of RTL Challenge
+🔥100 *Days of RTL Challenge*
 ***
 
 😊Welcome to my 100 Days of RTL challenge repository!
