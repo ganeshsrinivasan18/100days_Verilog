@@ -1,0 +1,23 @@
+module pipo_tb();
+reg clk=0,clr;
+reg [3:0]d;
+wire [3:0]q;
+
+pipo DUT(.clk(clk),.clr(clr),.d(d),.q(q));
+always #1 clk=~clk;
+initial
+begin
+$dumpfile("pipo.vcd");
+$dumpvars(0,pipo_tb);
+$monitor($time,"clk=%b,clr=%b,d=%b,q=%b",clk,clr,d,q);
+
+clr<=1;
+
+#4 clr=0;
+#7 d<=4'b1000;
+#7 d<=4'b1010;
+#7 d<=4'b0001;
+#70 $finish;
+end
+
+endmodule
