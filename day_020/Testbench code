@@ -1,0 +1,24 @@
+module sipo_register_tb();
+reg clk,clr,d;
+wire [3:0]q;
+sipo_register DUT(clk,clr,d,q);
+
+initial 
+begin 
+$dumpfile("sipo_register.vcd");
+$dumpvars(0,sipo_register_tb);
+$monitor($time,"clk=%b,clr=%b,d=%b,q=%b",clk,clr,d,q);
+end
+
+initial begin
+clr =1;
+clk=0;
+d=0;
+#10 clr=1'b0;
+end
+always #1 clk=~clk;
+always #2 d=~d;
+initial
+#50 $finish;
+
+endmodule
