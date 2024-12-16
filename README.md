@@ -44,6 +44,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 18:** Ring counter
 
+**. Day 19:** Shift Registers
+
 
 ….(Tasks will be added as I progress)
 ***
