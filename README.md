@@ -48,6 +48,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 20:** SIPO Register
 
+**. Day 21:** PIPO Register
+
 
 ….(Tasks will be added as I progress)
 ***
