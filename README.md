@@ -50,6 +50,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 21:** PIPO Register
 
+**. Day 22:** Jhonson Counter
+
 
 ….(Tasks will be added as I progress)
 ***
