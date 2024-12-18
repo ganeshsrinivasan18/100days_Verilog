@@ -54,6 +54,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 23:** Mod 12 Counter
 
+**. Day 24:** 16 Bit Adder with Status flags
+
 
 ….(Tasks will be added as I progress)
 ***
