@@ -56,6 +56,7 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 24:** 16 Bit Adder with Status flags
 
+**. Day 25:** Moore Model (Cyclic Lamps)
 
 ….(Tasks will be added as I progress)
 ***
