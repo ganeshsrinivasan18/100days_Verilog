@@ -52,6 +52,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 22:** Johnson Counter
 
+**. Day 23:** Mod 12 Counter
+
 
 ….(Tasks will be added as I progress)
 ***
