@@ -1,0 +1,18 @@
+module adder_16b_tb();
+reg[15:0]x,y;
+wire[15:0]z;
+wire s,ze,ca,pa,of;
+
+adder_16b DUT(.x(x),.y(y),.z(z),.sign(s),.zero(ze),.carry(ca),.parity(pa),.overflow(of));
+initial 
+begin 
+$dumpfile("adder_16b.vcd");
+$dumpvars(0,adder_16b_tb);
+$monitor($time,"x=%h,y=%h,z=%h,s=%b,ze=%b,ca=%b,pa=%b,of=%b",x,y,z,s,ze,ca,pa,of);
+
+ x=16'h8fff;y=16'h8000;
+#5 x=16'hfffe;y=16'h0002;
+#5 x=16'haaaa;y=16'h5555;
+#5 $finish;
+end
+endmodule
