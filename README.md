@@ -58,6 +58,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 25:** Moore Model (Cyclic Lamps)
 
+**. Day 26:** N-Bit Counter(N=8)
+
 ….(Tasks will be added as I progress)
 ***
 
