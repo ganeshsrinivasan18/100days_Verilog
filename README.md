@@ -60,7 +60,7 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 26:** N-Bit Counter(N=8)
 
-**. Day 27:** Moore Model(Serial Parity Detector)
+**. Day 27:** Moore Model (Serial Parity Detector)
 
 ….(Tasks will be added as I progress)
 ***
