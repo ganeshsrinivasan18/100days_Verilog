@@ -1,0 +1,18 @@
+module T_to_JK(J,K,clk,reset,Q,Qbar);
+input J,K,clk,reset;
+output reg Q;
+output Qbar;
+wire T;
+assign T=(J & ~Q) | (~K & Q);
+assign Qbar=~Q;
+
+always @ (posedge clk)
+begin
+if (reset)
+Q <= 0;
+else if (T)
+Q <= ~Q;
+else
+Q <= Q;
+end 
+endmodule
