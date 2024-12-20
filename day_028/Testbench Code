@@ -1,0 +1,20 @@
+module clk_divider_tb();
+reg clk=0,reset;
+wire clk_out;
+
+clk_divider DUT(.clk(clk),.reset(reset),.clk_out(clk_out));
+
+always #2clk=~clk;
+initial 
+begin 
+$dumpfile("clk_divider.vcd");
+$dumpvars(0,clk_divider_tb);
+$monitor($time,"clk=%b,reset=%b,clk_out=%b",clk,reset,clk_out);
+
+
+#5reset=0;
+#5 reset=1;
+
+#200$finish;
+end
+endmodule
