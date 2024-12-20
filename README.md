@@ -62,6 +62,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 27:** Moore Model (Serial Parity Detector)
 
+**. Day 28:** Clock Divider
+
 ….(Tasks will be added as I progress)
 ***
 
