@@ -1,0 +1,28 @@
+module T_to_JK_tb();
+reg J,K,clk=0,reset;
+wire Q,Qbar;
+T_to_JK DUT(.J(J),.K(K),.clk(clk),.reset(reset),.Q(Q),.Qbar(Qbar));
+always #5 clk=~clk;
+initial 
+begin 
+$dumpfile("T_to_JK.vcd");
+$dumpvars(0,T_to_JK_tb);
+$monitor($time,"J=%b,K=%b,clk=%b,reset=%b,Q=%b,Qbar=%b",J,K,clk,reset,Q,Qbar);
+end
+initial 
+begin
+reset=0;
+#5 reset=1;
+end
+initial begin 
+J=0;K=0;
+#10 J=0;K=1;
+#10 J=1;K=0;
+#10 J=0;K=1;
+#10 J=1;K=0;
+#10 J=1;K=1;
+
+#200$finish;
+end
+
+endmodule
