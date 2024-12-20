@@ -64,6 +64,9 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 28:** Clock Divider
 
+**. Day 29:** Conversion of T to JK Flipflop
+
+
 ….(Tasks will be added as I progress)
 ***
 
