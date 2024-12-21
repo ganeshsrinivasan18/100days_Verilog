@@ -1,0 +1,22 @@
+module traffic_light(clk,reset,light);
+input clk,reset;
+output reg [1:0]light;
+reg [1:0] state;
+
+always@(posedge clk or posedge reset) begin
+if (reset)
+state <= 2'b00;
+else begin
+case (state)
+2'b00 : state <= 2'b01; //00=RED
+2'b01 : state <= 2'b10; //01=GREEN
+2'b10 : state <= 2'b00; //10=YELLOW
+default : state <= 2'b00;
+endcase 
+end 
+end
+
+always @(state) begin
+light = state;
+end
+endmodule
