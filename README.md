@@ -66,6 +66,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 29:** Conversion of T to JK Flipflop
 
+**. Day 30:** FSM Design for Traffic Light Controller
+
 
 ….(Tasks will be added as I progress)
 ***
