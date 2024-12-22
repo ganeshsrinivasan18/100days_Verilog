@@ -72,7 +72,7 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 32:** Conversion of T to SR Flipflop
 
-**. Day 33:** Design of NOR gate
+**. Day 33:** NOR gate using transisitors
 
 
 ….(Tasks will be added as I progress)
