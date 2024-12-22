@@ -70,6 +70,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 31:** Edge Detector 
 
+**. Day 32:** Conversion of T to SR Flipflop
+
 
 ….(Tasks will be added as I progress)
 ***
