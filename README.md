@@ -76,6 +76,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 34:** Octal to Binary Encoder
 
+**. Day 35:** Comparator
+
 
 ….(Tasks will be added as I progress)
 ***
