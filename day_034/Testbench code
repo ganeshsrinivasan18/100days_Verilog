@@ -1,0 +1,23 @@
+module octal_to_binary_tb();
+reg [7:0]d;
+wire [2:0]y;
+octal_to_binary DUT(.d(d),.y(y));
+
+initial begin 
+
+#2 d= 8'b00000001 ;
+#2 d=8'b00000010 ;
+#2 d=8'b00000100 ;
+#2 d=8'b00001000 ;
+#2 d=8'b00010000 ;
+#2 d=8'b00100000 ;
+#2 d=8'b01000000 ;
+#2 d=8'b10000000 ;
+#20 $finish;
+end
+initial begin 
+$dumpfile("octal_to_binary.vcd");
+$dumpvars(0,octal_to_binary_tb);
+$monitor($time,"d=%b,y=%b",d,y);
+end
+endmodule
