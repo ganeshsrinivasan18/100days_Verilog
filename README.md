@@ -74,6 +74,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 33:** NOR gate using transisitors
 
+**. Day 34:** Octal to Binary Encoder
+
 
 ….(Tasks will be added as I progress)
 ***
