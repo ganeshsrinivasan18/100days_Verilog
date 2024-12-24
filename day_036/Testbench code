@@ -1,0 +1,58 @@
+module FullAdder8Bit_tb;
+    
+    reg [7:0] A;
+    reg [7:0] B;
+    reg Cin;
+
+    wire [7:0] Sum;
+    wire Cout;
+
+  
+    FullAdder8Bit uut (
+        .A(A),
+        .B(B),
+        .Cin(Cin),
+        .Sum(Sum),
+        .Cout(Cout)
+    );
+
+   
+    initial begin
+        
+        $monitor("Time: %0d | A: %b | B: %b | Cin: %b | Sum: %b | Cout: %b", 
+                 $time, A, B, Cin, Sum, Cout);
+
+   
+        A = 8'b00000000;
+        B = 8'b00000000;
+        Cin = 0;
+        #10;
+
+        
+        A = 8'b00000001;
+        B = 8'b00000001;
+        Cin = 0;
+        #10;
+
+        
+        A = 8'b11111111;
+        B = 8'b00000001;
+        Cin = 0;
+        #10;
+
+      
+        A = 8'b10101010;
+        B = 8'b01010101;
+        Cin = 1;
+        #10;
+
+       
+        A = 8'b10011001;
+        B = 8'b01100110;
+        Cin = 0;
+        #10;
+
+     
+       #150 $stop;
+    end
+endmodule
