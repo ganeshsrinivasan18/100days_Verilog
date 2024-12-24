@@ -78,6 +78,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 35:** Comparator
 
+**. Day 36:** 8bit-Full Adder
+
 
 ….(Tasks will be added as I progress)
 ***
