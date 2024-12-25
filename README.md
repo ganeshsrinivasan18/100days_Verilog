@@ -82,7 +82,7 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 37:** 16 Bit-Xor Bitwise 
 
-**. Day 38:** Code_converter
+**. Day 38:** Code converter
 
 
 ….(Tasks will be added as I progress)
