@@ -80,6 +80,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 36:** Priority Encoder
 
+**. Day 37:** 16 Bit-Xor Bitwise 
+
 
 ….(Tasks will be added as I progress)
 ***
