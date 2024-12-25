@@ -1,0 +1,18 @@
+module xor_bitwise_tb( );
+reg [15:0]x,y;
+wire [15:0]out;
+xor_bitwise DUT(.f(out),.a(x),.b(y));
+initial begin 
+$dumpfile("xor_bitwise.vcd");
+$dumpvars(0,xor_bitwise_tb);
+$monitor($time,"x=%b,y=%b,out=%b",x,y,out);
+x=$random();y=$random();
+#10 x=16'h0f0f;y=16'h3333;
+#10 x=16'haaaa;y=16'h00ff;
+#10 x=$random();y=$random();
+#10 x=$random();y=$random();
+#10 x=$random();y=$random();
+#10 x=$random();y=$random();
+#20 $finish;
+end
+endmodule
