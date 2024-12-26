@@ -86,6 +86,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 39:** CMOS inverter
 
+**. Day 40:** 8 Bit Full Adder 
+
 
 ….(Tasks will be added as I progress)
 ***
