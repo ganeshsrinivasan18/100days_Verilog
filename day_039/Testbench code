@@ -1,0 +1,22 @@
+
+module cmos_inverter_tb();
+reg in;
+wire out;
+cmos_inverter DUT (.out(out),.in(in));
+initial begin 
+$dumpfile("cmos_inverter.vcd");
+$dumpvars(0,cmos_inverter_tb);
+$monitor($time,"in=%b,out=%b",in,out);
+
+in=0;
+#2 in=1;
+#2 in=0;
+#2 in=0;
+#2 in=1;
+#2 in=1;
+#2 in=0;
+#2 in=1;
+#5 $finish;
+end
+
+endmodule
