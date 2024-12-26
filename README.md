@@ -84,6 +84,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 38:** Code converter
 
+**. Day 39:** CMOS inverter
+
 
 ….(Tasks will be added as I progress)
 ***
