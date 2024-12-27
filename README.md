@@ -88,7 +88,9 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 40:** 8 Bit Full Adder
 
-**. Day 41:** Counter with Clock Gating
+**. Day 41:** Counter with Clock Gating 
+
+**. Day 42:** Debouncing Circuit 
 
 
 ….(Tasks will be added as I progress)
