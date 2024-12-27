@@ -1,0 +1,27 @@
+module debouncing_tb();
+reg clk,btn_in;
+wire btn_out;
+
+debouncer DUT (.clk(clk),.btn_in(btn_in),.btn_out(btn_out));
+
+initial begin 
+clk=0;
+forever
+#5 clk=~clk;
+end 
+initial begin 
+$dumpfile("debouncing.vcd");
+$dumpvars(0,debouncing_tb);
+$monitor($time,"clk=%b,btn_in=%b,btn_out=%b",clk,btn_in,btn_out);
+end
+initial begin 
+btn_in=0; 
+#20 btn_in=1;
+#10 btn_in=0;
+#10 btn_in=1;
+#30 btn_in=0;
+#10 btn_in=1;
+#50 btn_in=0;
+#50 $finish;
+end
+endmodule
