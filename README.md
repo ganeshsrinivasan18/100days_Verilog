@@ -94,7 +94,9 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 43:** PNR Generator
 
+**. Day 44:**  Multiplexer-Based Function Generator
 
+              
 ….(Tasks will be added as I progress)
 ***
 
