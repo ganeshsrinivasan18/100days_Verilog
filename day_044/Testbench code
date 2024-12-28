@@ -1,0 +1,21 @@
+module function_generator_tb();
+reg A,B;
+reg [2:0] sel;
+wire F;
+integer  i;
+function_generator DUT(.A(A),.B(B),.sel(sel),.F(F));
+initial begin 
+$dumpfile("function_generator.vcd");
+$dumpvars(0,function_generator_tb);
+$monitor($time,"A=%b,B=%b,sel=%b,F=%b",A,B,sel,F);
+end
+initial begin 
+for( i=0;i<8;i=i+1) begin 
+A=0;B=0;sel=i; #10;
+A=0;B=1;sel=i; #10;
+A=1;B=0;sel=i; #10;
+A=1;B=1;sel=i; #10;
+end
+$finish;
+end
+endmodule
