@@ -104,7 +104,7 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 ## **License🪪**
 
-This project is Licensed under the MIT License.See the ['LICENSE'] (LICENSE) file for details.
+This project is Licensed under the MIT License.**See the LICENSE file for details.**
 
 ***
 
