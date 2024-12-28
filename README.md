@@ -1,4 +1,4 @@
-🔥100 **Days of RTL Challenge**
+## 🔥100 **Days of RTL Challenge**
 ***
 
 😊Welcome to my **100 Days of RTL challenge** repository!
@@ -6,7 +6,7 @@
 In this project, I will be coding 💻  various **digital designs using Verilog and RTL design** techniques as part of a 100-day challenge to improve my **Hardware Description Language** (HDL) skills😉
 ***
 
-**Progress📆**
+## **Progress📆**
 
 **. Day 1:** Full Adder
 
@@ -102,12 +102,12 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 ….(Tasks will be added as I progress)
 ***
 
-**License🪪**
+## **License🪪**
 
 This project is Licensed under the MIT License.**See the LICENSE file for details.**
 ***
 
-**🛠 Tools and Environment**
+## **🛠 Tools and Environment**
 
 . Vivado 2024.1
 
