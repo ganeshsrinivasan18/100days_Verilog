@@ -104,7 +104,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 ## **License🪪**
 
-This project is Licensed under the MIT License.See the ['LICENSE'] (https://github.com/ganeshsrinivasan18/100days_Verilog/tree/main?tab=MIT-1-ov-file) file for details.
+This project is Licensed under the MIT License.See the ['LICENSE'] (LICENSE) file for details.
+
 ***
 
 ## **🛠 Tools and Environment**
