@@ -96,6 +96,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 44:**  Multiplexer-Based Function Generator
 
+**. Day 45:** Volume Level Indicator
+
               
 ….(Tasks will be added as I progress)
 ***
