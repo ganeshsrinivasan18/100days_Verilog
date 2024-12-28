@@ -1,0 +1,19 @@
+module function_generator(A,B,sel,F);
+input A,B;
+input [2:0]sel;
+output reg F;
+
+always @(*) begin 
+case (sel) 
+3'b000 : F = A&B;
+3'b001 : F = A|B;
+3'b010 : F = A^B;
+3'b011 : F = ~(A&B);
+3'b100 : F = ~(A|B);
+3'b101 : F = ~(A^B);
+3'b110 : F = ~A;
+3'b111 : F = ~B;
+default : F=1'b0;
+endcase
+end
+endmodule
