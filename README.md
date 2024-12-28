@@ -92,6 +92,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 42:** Debouncing Circuit 
 
+**. Day 43:** PNR Generator
+
 
 ….(Tasks will be added as I progress)
 ***
