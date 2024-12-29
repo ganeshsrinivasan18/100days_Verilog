@@ -98,6 +98,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 45:** Volume Level Indicator
 
+**. Day 46:** Bitwise rotator
+
               
 ….(Tasks will be added as I progress)
 ***
