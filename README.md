@@ -100,6 +100,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 46:** Bitwise Rotator
 
+**. Day 47:** Odd/Even Detector
+
               
 ….(Tasks will be added as I progress)
 ***
