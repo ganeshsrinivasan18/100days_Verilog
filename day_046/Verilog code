@@ -1,0 +1,17 @@
+module bitwise_rotator(data_in,rotate_dir,clk,reset,data_out);
+input clk,reset,rotate_dir;
+input [7:0]data_in;
+output reg [7:0]data_out;
+always @(posedge clk or posedge reset) begin
+if(reset)begin
+data_out <= 8'b0;
+end 
+else begin 
+case(rotate_dir)
+1'b0  : data_out <= {data_in[6:0],data_in[7]};
+1'b1  : data_out <= {data_in[0] ,data_in[7:1]};
+default : data_out <= data_out;
+endcase 
+end
+end
+endmodule
