@@ -1,0 +1,13 @@
+module test_pattern_generator(clk,reset,mode,pattern); // input and output declaration
+input clk,reset,mode; // input declaration
+output reg [3:0]pattern; // output declaration
+//logic operation
+always @ (posedge clk , posedge reset)begin
+if(reset) 
+pattern <= 4'b0000;  //reset operation
+else if (mode == 0)
+pattern <= 4'b1010;  //static pattern (alternating bits)
+else if (mode ==1)
+pattern <= pattern + 1;  //dynamic pattern (incrementing counter)
+end
+endmodule
