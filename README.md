@@ -102,6 +102,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 47:** Odd/Even Detector
 
+**. Day 48:** Zero Detector
+
               
 ….(Tasks will be added as I progress)
 ***
