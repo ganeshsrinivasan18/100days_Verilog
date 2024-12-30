@@ -104,6 +104,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 48:** Zero Detector
 
+**. Day 49:** Test Pattern Detector
+
               
 ….(Tasks will be added as I progress)
 ***
