@@ -108,6 +108,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 50:** Multiplication by Repeated Addition (Datapath and Controller Design)
 
+**. Day 51:** Digital Quiz Buzzer
+
               
 ….(Tasks will be added as I progress)
 ***
