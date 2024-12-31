@@ -106,6 +106,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 49:** Test Pattern Generator(TPG)
 
+**. Day 50:** Multiplication by Repeated Addition (Datapath and Controller Design)
+
               
 ….(Tasks will be added as I progress)
 ***
