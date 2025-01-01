@@ -110,6 +110,9 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 51:** Digital Quiz Buzzer
 
+**. Day 52:** Linear Feedback Shift Register(LFSR) 
+
+
               
 ….(Tasks will be added as I progress)
 ***
