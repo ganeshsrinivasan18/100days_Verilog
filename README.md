@@ -112,6 +112,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 52:** Linear Feedback Shift Register(LFSR) 
 
+**. Day 53:** Pseudo-Random Noise Generator
+
 
               
 ….(Tasks will be added as I progress)
