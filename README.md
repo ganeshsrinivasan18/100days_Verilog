@@ -114,6 +114,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 53:** Pseudo-Random Noise Generator
 
+**. Day 54:** Gaussian Noise Generator
+
 
               
 ….(Tasks will be added as I progress)
