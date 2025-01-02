@@ -116,6 +116,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 54:** Gaussian Noise Generator
 
+**. Day 55:** A Simple Sign Detector
+
 
               
 ….(Tasks will be added as I progress)
