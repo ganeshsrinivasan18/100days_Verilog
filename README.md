@@ -122,6 +122,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 57:** Barrel Shifter
 
+**. Day 58:** Digital Motion Alarm System
+
 
               
 ….(Tasks will be added as I progress)
