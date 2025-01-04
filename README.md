@@ -120,6 +120,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 56:** Loadable Register
 
+**. Day 57:** Barrel Shifter
+
 
               
 ….(Tasks will be added as I progress)
