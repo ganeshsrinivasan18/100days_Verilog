@@ -124,6 +124,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 58:** Digital Motion Alarm System
 
+**. Day 59:** Challenge-Response Authenticator
+
 
               
 ….(Tasks will be added as I progress)
