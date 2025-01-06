@@ -128,6 +128,7 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 60:** Digital Dice Simulator
 
+**. Day 61:** Rotating Led
 
               
 ….(Tasks will be added as I progress)
