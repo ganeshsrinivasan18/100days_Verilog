@@ -130,6 +130,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 61:** Rotating Led
 
+**. Day 62:** Universal Shift Register
+
               
 ….(Tasks will be added as I progress)
 ***
