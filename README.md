@@ -134,6 +134,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 63:** Digital Watermark Generator
 
+**. Day 64:** Lottery System
+
               
 ….(Tasks will be added as I progress)
 ***
