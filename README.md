@@ -138,6 +138,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 65:** Multiple Input Signature Register (MISR)
 
+**. Day 66:** A Simple Timer
+
               
 ….(Tasks will be added as I progress)
 ***
