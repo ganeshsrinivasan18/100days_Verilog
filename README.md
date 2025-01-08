@@ -136,6 +136,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 64:** Lottery System
 
+**. Day 65:** Multiple Input Signature Register (MISR)
+
               
 ….(Tasks will be added as I progress)
 ***
