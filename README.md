@@ -142,6 +142,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 67:** Random Colour Generator(RGB Light Generator)
 
+**. Day 68:** Scrambling/Descrambling
+
               
 ….(Tasks will be added as I progress)
 ***
