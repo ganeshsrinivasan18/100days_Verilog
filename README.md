@@ -144,6 +144,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **. Day 68:** Scrambling/Descrambling
 
+**. Day 69:** Threshold Indicator
+
               
 ….(Tasks will be added as I progress)
 ***
