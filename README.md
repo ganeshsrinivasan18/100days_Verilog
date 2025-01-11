@@ -148,6 +148,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 70:** Voltage Monitoring System
 
+**• Day 71:** Motion Detector System
+
               
 ….(Tasks will be added as I progress)
 ***
