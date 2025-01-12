@@ -24,7 +24,7 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 8:** BCD to 7 Segment Display
 
-**• Day 9: ** SR Latch
+**• Day 9:** SR Latch
 
 **• Day 10:** SR Flipflop
 
