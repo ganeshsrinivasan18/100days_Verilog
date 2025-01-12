@@ -150,6 +150,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 71:** Motion Detector System
 
+**• Day 72:** Signal Pattern Detector
+
               
 ….(Tasks will be added as I progress)
 ***
