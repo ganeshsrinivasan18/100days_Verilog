@@ -152,6 +152,9 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 72:** Signal Pattern Detector
 
+**• Day 73:** Queue Management System Display
+
+
               
 ….(Tasks will be added as I progress)
 ***
