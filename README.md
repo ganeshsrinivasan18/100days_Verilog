@@ -154,6 +154,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 73:** Queue Management System Display
 
+**• Day 74:** Digital Thermostat Controller Via FSM
+
 
               
 ….(Tasks will be added as I progress)
