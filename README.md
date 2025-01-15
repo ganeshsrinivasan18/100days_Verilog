@@ -156,6 +156,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 74:** Digital Thermostat Controller Via FSM
 
+**• Day 75:** PWM (Pulse Width Modulation) generator
+
 
               
 ….(Tasks will be added as I progress)
