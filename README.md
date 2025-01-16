@@ -158,6 +158,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 75:** PWM (Pulse Width Modulation) generator
 
+**• Day 76:** Fire or Smoke Detector
+
 
               
 ….(Tasks will be added as I progress)
