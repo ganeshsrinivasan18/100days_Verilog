@@ -160,6 +160,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 76:** Fire or Smoke Detector
 
+**• Day 77:** Water Quality Indicator
+
 
               
 ….(Tasks will be added as I progress)
