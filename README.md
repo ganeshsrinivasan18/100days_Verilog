@@ -162,6 +162,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 77:** Water Quality Indicator
 
+**• Day 78:** Digital Toll Collection System
+
 
               
 ….(Tasks will be added as I progress)
