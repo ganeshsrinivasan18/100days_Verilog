@@ -166,6 +166,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 79:** Digital Ticketing System
 
+**• Day 80:** Digital Coin Counter 
+
 
               
 ….(Tasks will be added as I progress)
