@@ -164,7 +164,7 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 78:** Digital Toll Collection System
 
-**• Day 78:** Digital Ticketing System
+**• Day 79:** Digital Ticketing System
 
 
               
