@@ -168,6 +168,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 80:** Digital Coin Counter 
 
+**• Day 81:** Single-Port RAM
+
 
               
 ….(Tasks will be added as I progress)
