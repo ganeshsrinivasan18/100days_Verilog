@@ -170,6 +170,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 81:** Single-Port RAM
 
+**• Day 82:** Dual-Port RAM
+
 
               
 ….(Tasks will be added as I progress)
