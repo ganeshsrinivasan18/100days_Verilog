@@ -172,7 +172,9 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 82:** Dual-Port RAM
 
-**• Day 82:** Read Only Memory (ROM)
+**• Day 83:** Read Only Memory (ROM)
+
+**• Day 84:** Gesture-Based Control System 
 
 
               
