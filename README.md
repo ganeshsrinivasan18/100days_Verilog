@@ -176,6 +176,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 84:** Gesture-Based Control System 
 
+**• Day 85:** Energy Meter with Overload Protection
+
 
               
 ….(Tasks will be added as I progress)
