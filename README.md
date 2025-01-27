@@ -178,6 +178,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 85:** Energy Meter with Overload Protection
 
+**• Day 86:** FPGA-Based Color Detection System 
+
 
               
 ….(Tasks will be added as I progress)
