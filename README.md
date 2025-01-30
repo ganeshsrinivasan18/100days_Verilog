@@ -180,6 +180,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 86:** FPGA-Based Color Detection System 
 
+**• Day 87:** 32×32 Register File
+
 
               
 ….(Tasks will be added as I progress)
