@@ -182,6 +182,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 87:** 32×32 Register File
 
+**• Day 88:** Digital Potentiometer
+
 
               
 ….(Tasks will be added as I progress)
