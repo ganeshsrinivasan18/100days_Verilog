@@ -184,6 +184,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 88:** Digital Potentiometer
 
+**• Day 89:** Smart Water Dispenser System
+
 
               
 ….(Tasks will be added as I progress)
