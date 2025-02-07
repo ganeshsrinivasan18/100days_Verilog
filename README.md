@@ -186,6 +186,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 89:** Smart Water Dispenser System
 
+**• Day 90:** Car Parking Sensor
+
 
               
 ….(Tasks will be added as I progress)
