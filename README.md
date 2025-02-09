@@ -188,6 +188,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 90:** Car Parking Sensor
 
+**• Day 91:** Intercom System
+
 
               
 ….(Tasks will be added as I progress)
