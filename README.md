@@ -190,6 +190,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 91:** Intercom System
 
+**• Day 92:** First In First Out (FIFO)
+
 
               
 ….(Tasks will be added as I progress)
