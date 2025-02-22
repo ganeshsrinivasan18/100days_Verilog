@@ -192,6 +192,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 92:** First In First Out (FIFO)
 
+**• Day 93:** Last In First Out (LIFO)
+
 
               
 ….(Tasks will be added as I progress)
