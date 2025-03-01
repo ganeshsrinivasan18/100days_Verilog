@@ -194,6 +194,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 93:** Last In First Out (LIFO)
 
+**• Day 94:** Pipelined ALU (Arithmetic Logic Unit)
+
 
               
 ….(Tasks will be added as I progress)
