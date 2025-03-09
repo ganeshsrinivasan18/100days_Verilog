@@ -196,6 +196,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 94:** Pipelined ALU (Arithmetic Logic Unit)
 
+**• Day 95:** ATM Controller
+
 
               
 ….(Tasks will be added as I progress)
