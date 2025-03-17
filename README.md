@@ -198,6 +198,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 95:** ATM Controller
 
+**• Day 96:** Finite Impulse Response (FIR) Filter
+
 
               
 ….(Tasks will be added as I progress)
