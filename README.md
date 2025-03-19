@@ -200,6 +200,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 96:** Finite Impulse Response (FIR) Filter
 
+**• Day 97:** Wireless Power Transfer Monitoring System
+
 
               
 ….(Tasks will be added as I progress)
