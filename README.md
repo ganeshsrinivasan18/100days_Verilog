@@ -202,6 +202,8 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 97:** Wireless Power Transfer Monitoring System
 
+**• Day 98:** Morphological
+
 
               
 ….(Tasks will be added as I progress)
