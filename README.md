@@ -202,7 +202,9 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 97:** Wireless Power Transfer Monitoring System
 
-**• Day 98:** Morphological
+**• Day 98:** Morphological Operations in Digital Image Processing
+
+**• Day 99:** VGA Controller
 
 
               
