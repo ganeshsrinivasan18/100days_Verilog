@@ -206,9 +206,11 @@ In this project, I will be coding 💻  various **digital designs using Verilog 
 
 **• Day 99:** VGA Controller
 
+**• Day 100:** Pipelined MIPS 32 Processor Design
+
 
               
-….(Tasks will be added as I progress)
+
 ***
 
 ## **License🪪**
