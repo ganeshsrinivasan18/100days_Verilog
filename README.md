@@ -1,6 +1,11 @@
 ## 🔥100 **Days of RTL Challenge**
 ***
 
+![GitHub top language](https://img.shields.io/github/languages/top/ganeshsrinivasan18/100days_Verilog)
+![GitHub repo stars](https://img.shields.io/github/stars/ganeshsrinivasan18/100days_Verilog?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ganeshsrinivasan18/100days_Verilog?style=social)
+![GitHub license](https://img.shields.io/github/license/ganeshsrinivasan18/100days_Verilog)
+
 😊Welcome to my **100 Days of RTL challenge** repository!
 
 In this project, I will be coding 💻  various **digital designs using Verilog and RTL design** techniques as part of a 100-day challenge to improve my **Hardware Description Language** (HDL) skills😉
