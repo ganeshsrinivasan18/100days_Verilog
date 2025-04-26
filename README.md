@@ -2,9 +2,7 @@
 ***
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ganeshsrinivasan18/100days_Verilog)
-
 ![GitHub repo stars](https://img.shields.io/github/stars/ganeshsrinivasan18/100days_Verilog?style=social)
-
 ![GitHub license](https://img.shields.io/github/license/ganeshsrinivasan18/100days_Verilog)
 
 😊Welcome to my **100 Days of RTL challenge** repository!
